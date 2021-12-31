@@ -1,4 +1,4 @@
 # ebac-pull-request1
  repositório de teste para demonstrar um pull request
  
-atualização no main.
+atualização no main com resolução.
